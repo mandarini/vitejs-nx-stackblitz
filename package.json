@@ -16,6 +16,7 @@
   "devDependencies": {
     "@eslint/js": "^9.10.0",
     "@nx/eslint": "19.7.0-beta.6",
+    "@nx/react": "^19.7.0-beta.6",
     "@nx/vite": "19.7.0-beta.6",
     "@nx/web": "19.7.0-beta.6",
     "@types/react": "^18.3.5",
