@@ -27,5 +27,10 @@
   ],
   "nxCloudId": "66e815b96387226cf484c089",
   "nxCloudAccessToken": "OWMyOGJlZjAtZDJmMi00ZDA0LThlZGMtMmExMzMxZmRiNzUwfHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "https://staging.nx.app"
+  "nxCloudUrl": "https://staging.nx.app",
+  "namedInputs": {
+    "sharedGlobals": [
+      "{workspaceRoot}/.github/workflows/ci.yml"
+    ]
+  }
 }
